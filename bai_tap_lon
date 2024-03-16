@@ -10,7 +10,6 @@ char ssid[] = "TOTOLINK_N350RT";//                               ~
 char pass[] = "09040704";//                                      ~
 //~~~~~~~~~~~~~~~~~~~Địa_chỉ_BLYNK_và_WIFI~~~~~~~~~~~~~~~~~~~~~~~~
 
-
 //++++++++++++++++++++++++++++++++++++++ Các thư viện+++++++++++++++++++++++++++++++++++++++++++++++
 #include <WiFi.h> // Thư viện để kết nối WiFi                                                      +
 #include <WiFiClient.h> // Thư viện để tạo một client WiFi                                         +
